@@ -1,0 +1,67 @@
+{
+  "name": "toman_test_project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
+    "@mui/material": "^6.1.9",
+    "@tanstack/react-query": "^5.61.5",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.120",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "add": "^2.0.6",
+    "axios": "^1.7.8",
+    "formik": "^2.4.6",
+    "moment-jalaali": "^0.10.4",
+    "persianjs": "^0.4.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-otp-input": "^3.1.1",
+    "react-router": "^7.0.1",
+    "react-scripts": "5.0.1",
+    "stylis": "^4.3.4",
+    "stylis-plugin-rtl": "^2.1.1",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4",
+    "yarn": "^1.22.22",
+    "yup": "^1.5.0"
+  },
+  "scripts": {
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@eslint/js": "^9.15.0",
+    "eslint": "^9.15.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-react": "^7.37.2",
+    "globals": "^15.12.0",
+    "prettier": "^3.4.1",
+    "typescript-eslint": "^8.16.0"
+  },
+  "engines": {
+    "yarn": ">=1.22.0 <2.0.0",
+    "node": ">=22.10.0 < 24.0.0"
+  }
+}
