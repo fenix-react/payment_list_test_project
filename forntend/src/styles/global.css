@@ -1,0 +1,21 @@
+* {
+  font-family: Estedad;
+}
+*::-webkit-scrollbar {
+  display: block;
+  height: 1px;
+  width: 4px;
+}
+/* Track */
+*::-webkit-scrollbar-track {
+  background: #dedede;
+}
+/* Handle */
+*::-webkit-scrollbar-thumb {
+  background: #1e9f9b;
+  border-radius: 20px;
+}
+/* Handle on hover */
+*::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
